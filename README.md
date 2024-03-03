@@ -20,6 +20,8 @@ L'app per prendere note nel modo più facile che esista!
 
 📧 Hai domande o suggerimenti? Lasciaci un commento sullo store, siamo qui per aiutarti! Inoltre, puoi contattarci tramite email: [mosci.software@gmail.com](mailto:mosci.software@gmail.com).
 
+🌙  Questa app supporta sia la modalità chiara che quella scura, e cambierà automaticamente in base al tema attualmente impostato sul tuo telefono. ☀️
+
 ---
 
 ## Privacy e Annunci:
@@ -95,6 +97,8 @@ OVERNOTE is an entirely Italian project, born from the passion and desire to lea
 🌍 Sometimes on OVERNOTE we will give you suggestions to protect our planet. You can turn off suggestions at any time, but remember: a small gesture can make a big difference for you and future generations. Join us and make sustainability part of your daily routine! 🌱
 
 📧 Do you have any questions or suggestions? Leave us a comment on the store, we’re here to help! You can also contact us by email: [mosci.software@gmail.com](mailto:mosci.software@gmail.com).
+
+🌙  This app supports both light and dark mode, and will automatically change according to the theme currently set on your phone. ☀️
 
 ---
 
