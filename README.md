@@ -55,6 +55,8 @@ Puoi contribuire a OVERNOTE in diverse aree, tra cui:
 - Miglioramento dell'interfaccia utente.
 - Ottimizzazione delle prestazioni.
 - Miglioramento della documentazione.
+  
+se sei uno sviluppatore, grafico o hai delle capacità e vuoi collaborare con me scrivi una email.
 
 ## Note sul Progetto
 
@@ -132,6 +134,8 @@ You can contribute to OVERNOTE in several areas, including:
 - Improvement of the user interface.
 - Optimization of performance.
 - Improvement of documentation.
+  
+if you are a developer, graphic designer or have skills and want to collaborate with me write an email.
 
 ## Notes on the Project
 
