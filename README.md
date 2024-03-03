@@ -79,6 +79,11 @@ Se hai domande o dubbi su come iniziare a contribuire, non esitare a contattarci
 🇮🇹
 
 ---
+Segutemi!!
+[YouTube](https://www.youtube.com/channel/UC_w_Tv8mzTKADdcNQ_Iezow).
+[Instagram](https://instagram.com/christian_mosci/).
+[X](https://twitter.com/SPAC3TRUK).
+---
 🇬🇧
 # Welcome to OVERNOTE!
 ***Description:***
@@ -148,6 +153,11 @@ Thank you for your interest and I look forward to working with you!
 
 If you have any questions or concerns about how to start contributing, feel free to contact us! We are here to help.
 
+---
+Follow me!!
+[YouTube](https://www.youtube.com/channel/UC_w_Tv8mzTKADdcNQ_Iezow).
+[Instagram](https://instagram.com/christian_mosci/).
+[X](https://twitter.com/SPAC3TRUK).
 ---
 
 ❤️  Thank you for coming to our app ❤️
