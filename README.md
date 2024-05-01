@@ -46,6 +46,10 @@ Per installare OVERNOTE sul tuo dispositivo Android, segui questo [link per il d
 
 Se sei interessato a contribuire migliorando questa app, contattami all'indirizzo email [mosci.software@gmail.com](mailto:mosci.software@gmail.com) per discutere ulteriormente e ottenere accesso all'APK e al codice sorgente del progetto.
 
+Se vuoi guardare il trailer di questa app su YouTube --- > [Trailer Overnote](https://youtu.be/7VbY0fMCtTQ)
+
+Se vuoi guardare il Devlog di questa app su YouTube per capire come funziona --- > [Devlog Overnote](https://youtu.be/-9k4zIenpcE)
+
 ---
 
 Puoi contribuire a OVERNOTE in diverse aree, tra cui:
@@ -129,6 +133,11 @@ OVERNOTE is an entirely Italian project, born from the passion and desire to lea
 To install OVERNOTE on your Android device, follow this [download link from the Google Play Store](link_playstore).
 
 If you are interested in helping improve this app, please contact me at [mosci.software@gmail.com](mailto:mosci.software@gmail.com) to discuss further and gain access to the APK and the project source code.
+
+If you want to watch the trailer of this app on YouTube --- > [Trailer Overnote](https://youtu.be/7VbY0fMCtTQ)
+
+If you want to watch the Devlog of this app on YouTube to understand how it works --- > [Devlog Overnote](https://youtu.be/-9k4zIenpcE)
+
 
 ---
 
