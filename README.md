@@ -28,6 +28,8 @@ L'app per prendere note nel modo più facile che esista!
 
 ⚠️ Mosci Software si impegna a rispettare la privacy di ogni singolo utente. Per noi, la tua riservatezza è importante. Infatti, OVERNOTE non raccoglierà, invierà e gestirà MAI nessun dato, neanche con il consenso dell’utente. 🚫
 
+•[Link Documento Politica sulla privacy di Overnote in italiano](https://docs.google.com/document/d/1LEVkgTfaZaWhvVYXVQ8EcS1luNMRVXfmchMwcfZR0bw/edit?usp=sharing).
+
 • OVERNOTE può mostrare annunci, ma questi annunci non sono basati sulla raccolta di dati personali degli utenti ma sono mostrati in base a contesti generici e al contenuto dell'app. 📣
 
 • OVERNOTE mostra annunci SOLO per finanziare lo sviluppo dell'app e per offrire l’applicazione stessa gratuita agli utenti. 💸
@@ -116,6 +118,9 @@ OVERNOTE is an entirely Italian project, born from the passion and desire to lea
 ## Privacy and Announcements:
 
 ⚠️ Mosci Software is committed to respecting the privacy of every single user. For us, your privacy is important. In fact, OVERNOTE will NEVER collect, send and manage any data, even with your consent. 🚫
+
+• [Links Document Privacy Policy of Overnote in English](https://docs.google.com/document/d/1hQHJyn7c-Xfml92W7T9ySPf05oU-mLvazuuT1eyq_v8/edit?usp=sharing).
+
 • OVERNOTE may display ads, but these ads are not based on the collection of personal data of users but are shown based on generic contexts and the content of the app. 📣
 
 • OVERNOTE shows ads ONLY to finance the development of the app and to offer the app itself free to users. 💸
