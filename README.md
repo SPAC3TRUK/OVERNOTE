@@ -44,7 +44,7 @@ L'app per prendere note nel modo più facile che esista!
 
 ## Installazione:
 
-Per installare OVERNOTE sul tuo dispositivo Android, segui questo [link per il download dal Google Play Store](link_playstore).
+Per installare OVERNOTE sul tuo dispositivo Android, segui questo [link per il download dal Google Play Store](https://play.google.com/store/apps/details?id=com.moscisoftware.overnote&pcampaignid=web_share).
 
 Se sei interessato a contribuire migliorando questa app, contattami all'indirizzo email [mosci.software@gmail.com](mailto:mosci.software@gmail.com) per discutere ulteriormente e ottenere accesso all'APK e al codice sorgente del progetto.
 
@@ -135,7 +135,7 @@ OVERNOTE is an entirely Italian project, born from the passion and desire to lea
 
 ## Installation:
 
-To install OVERNOTE on your Android device, follow this [download link from the Google Play Store](link_playstore).
+To install OVERNOTE on your Android device, follow this [download link from the Google Play Store](https://play.google.com/store/apps/details?id=com.moscisoftware.overnote&pcampaignid=web_share).
 
 If you are interested in helping improve this app, please contact me at [mosci.software@gmail.com](mailto:mosci.software@gmail.com) to discuss further and gain access to the APK and the project source code.
 
