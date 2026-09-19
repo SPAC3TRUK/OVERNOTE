@@ -1,3 +1,9 @@
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/IDE-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Language-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)
+
 🇮🇹
 # Benvenuti su OVERNOTE!
 
